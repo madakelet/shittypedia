@@ -679,4 +679,19 @@ export const articles = [
     excerpt: "Az internetes tesztek a digitális önismeret legszórakoztatóbb és legkevésbé tudományos formái.",
     infobox: { 'Típus': 'Internetes önismereti műfaj' }
   },
+  // =====================
+  // SZÜLETÉSNAP
+  // =====================
+  {
+    slug: "26-szuletesnap",
+    title: "26. Születésnap",
+    categorySlug: null,
+    content: `<p>Drága Luca!</p>
+<p>26 éves lettél és szerettük volna, ha valami különlegessel ünnepeljük meg ezt az évet. Valami nosztalgikussal, valamivel ahol önmagunk lehetünk.</p>
+<p>Arra gondoltunk, hogy ropjuk együtt július 3-án az OG Fluor bulin a Parkban és üvöltsük együtt a HÁLENDÁ-t!</p>
+<p>Szeretünk,<br>Fruzsi, Zsuzsi, Adél</p>`,
+    imageUrl: "/birthday.png",
+    excerpt: "Drága Luca! 26 éves lettél és szerettük volna, ha valami különlegessel ünnepeljük meg ezt az évet.",
+    infobox: { 'Típus': 'Születésnap', 'Életkor': '26', 'Dátum': 'Július 3.' }
+  },
 ]
